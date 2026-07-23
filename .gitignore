@@ -1,0 +1,9 @@
+# Eclipse Workspace
+.metadata/
+.sonarlint/
+
+# Java
+**/target/
+
+# Logs
+*.log
